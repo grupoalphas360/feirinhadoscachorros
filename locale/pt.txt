@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = @natalepronto @grupoalphas
+
+### Title
+tour.name = Feirinha dos Cachorros Embu - Decoração de Natal
+
+## Skin
+
+### Button
+Button_FFAC5EB4_ED79_F017_41EC_CD35A4B8B396.label = BAIXE O CATÁLOGO DE NATAL EM PDF
+Button_FFAC5EB4_ED79_F017_41EC_CD35A4B8B396_mobile.label = BAIXE O CATÁLOGO DE NATAL EM PDF
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_E12209C8_ED3B_3699_41CA_36CA0F3D28F4.label = 15
+panorama_E620F1A5_ED3B_F68B_41D0_CB423EB20EF7.label = 17
+panorama_E6233D8F_ED3B_EE97_41EA_48C40ACBB3EE.label = 19
+panorama_E624C684_ED3B_DA89_41A1_C1107294B92B.label = 16
